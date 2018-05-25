@@ -1,0 +1,16 @@
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\ProcessingMathLibTests.deps.json
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\ProcessingMathLibTests.runtimeconfig.json
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\ProcessingMathLibTests.runtimeconfig.dev.json
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\ProcessingMathLibTests.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\ProcessingMathLibTests.pdb
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\ProcessingMathLib.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\bin\Debug\netcoreapp2.0\ProcessingMathLib.pdb
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\obj\Debug\netcoreapp2.0\ProcessingMathLibTests.csprojResolveAssemblyReference.cache
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\obj\Debug\netcoreapp2.0\ProcessingMathLibTests.csproj.CoreCompileInputs.cache
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\obj\Debug\netcoreapp2.0\ProcessingMathLibTests.AssemblyInfoInputs.cache
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\obj\Debug\netcoreapp2.0\ProcessingMathLibTests.AssemblyInfo.cs
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\obj\Debug\netcoreapp2.0\ProcessingMathLibTests.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMathLibTests\obj\Debug\netcoreapp2.0\ProcessingMathLibTests.pdb

@@ -1,0 +1,13 @@
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\bin\Debug\netcoreapp2.0\ProcessingMath.deps.json
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\bin\Debug\netcoreapp2.0\ProcessingMath.runtimeconfig.json
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\bin\Debug\netcoreapp2.0\ProcessingMath.runtimeconfig.dev.json
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\bin\Debug\netcoreapp2.0\ProcessingMath.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\bin\Debug\netcoreapp2.0\ProcessingMath.pdb
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\bin\Debug\netcoreapp2.0\ProcessingMathLib.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\bin\Debug\netcoreapp2.0\ProcessingMathLib.pdb
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\obj\Debug\netcoreapp2.0\ProcessingMath.csprojResolveAssemblyReference.cache
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\obj\Debug\netcoreapp2.0\ProcessingMath.csproj.CoreCompileInputs.cache
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\obj\Debug\netcoreapp2.0\ProcessingMath.AssemblyInfoInputs.cache
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\obj\Debug\netcoreapp2.0\ProcessingMath.AssemblyInfo.cs
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\obj\Debug\netcoreapp2.0\ProcessingMath.dll
+D:\5ITN\Driaug2\VisualStudio\ProcessingMath\ProcessingMath\obj\Debug\netcoreapp2.0\ProcessingMath.pdb
